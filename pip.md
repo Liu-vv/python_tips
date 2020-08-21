@@ -1,12 +1,12 @@
 # Can't pip install pakege_name in China.
 sometime you can't pip install the package due to the internet problem. in China, wo do have some wonderfull backup resource.  
 
-! for temporal use
+* for temporal use
 pip install -i url_name package_name
-! for permanent change
+* for permanent change
 pip config set global.index-url url_name
 
-! list of some awesome source
+* list of some awesome source  
 清华  
 https://pypi.tuna.tsinghua.edu.cn/simple  
 豆瓣  
